@@ -1,0 +1,87 @@
+.footer {
+    background-color: #222222;
+    padding: 20px 0;
+    border-top: 1px solid #eaeaea;
+    font-family: pretendard, sans-serif;
+    font-size: 12px;
+  }
+  
+  .footer .container {
+    max-width: 1550px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .footer-disclaimer {
+    max-width: 800px;
+    margin: 0 0 20px 0; /* 아래쪽에만 마진 */
+    font-size: 14px;
+    line-height: 1.6;
+    text-align: left; /* 왼쪽 정렬 */
+    padding-left: 0px; /* 왼쪽 여백 */
+  }
+  
+  .footer-disclaimer p {
+    margin-bottom: 10px;
+  }
+  
+  .footer-social {
+    display: flex;
+    justify-content: flex-start; /* 왼쪽 정렬 */
+    gap: 20px;
+    margin-bottom: 20px;
+    padding-left: 10px; /* 왼쪽 여백 */
+  }
+  
+  .footer-social .social-link {
+    font-size: 20px;
+    color: #afabab;
+    text-decoration: none;
+  }
+  
+  .footer-social .social-link:hover {
+    color: #000;
+  }
+  
+  .footer-social i {
+    font-size: 30px;
+  }
+  
+  .footer p {
+    text-align: left; /* 왼쪽 정렬 */
+    color: #afabab;
+    padding-left: 10px; /* 왼쪽 여백 */
+    text-align: justify;
+  }
+  
+  .footer p a {
+    color: #afabab;
+    text-decoration: none;
+  }
+  
+  .footer p a:hover {
+    color: #000;
+  }
+  
+  .footer-copyright {
+    /* text-align: left; 
+    font-weight: 500;
+    margin-top: 20px; */
+    letter-spacing: -0.2px;
+  }
+  
+  .fa-facebook:hover {
+    color: #3b5998;
+  }
+
+  .fa-youtube:hover {
+    color: #ff0000;
+  }
+
+  .fa-linkedin:hover {
+    color: #0077b5;
+  } 
+
+  .fa-x-twitter:hover {
+    color: white
+  }

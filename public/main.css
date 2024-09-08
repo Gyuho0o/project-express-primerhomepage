@@ -1,0 +1,7 @@
+/* Pretendard 폰트 적용 */
+body {
+    font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', Arial, sans-serif;
+    padding-top: 100px;
+    background-color: #fafafa !important;
+}
+
